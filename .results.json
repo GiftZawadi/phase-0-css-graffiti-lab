@@ -1,0 +1,108 @@
+{
+  "stats": {
+    "suites": 3,
+    "tests": 5,
+    "passes": 5,
+    "pending": 0,
+    "failures": 0,
+    "start": "2024-03-15T09:55:34.678Z",
+    "end": "2024-03-15T09:55:34.688Z",
+    "duration": 10
+  },
+  "tests": [
+    {
+      "title": "exists",
+      "fullTitle": "index.html exists",
+      "file": "/home/gift/Development/code/SE-prep/phase-0-css-graffiti-lab/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "exists",
+      "fullTitle": "css/cleanup.css exists",
+      "file": "/home/gift/Development/code/SE-prep/phase-0-css-graffiti-lab/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has overrides added",
+      "fullTitle": "css/cleanup.css has overrides added",
+      "file": "/home/gift/Development/code/SE-prep/phase-0-css-graffiti-lab/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "exists",
+      "fullTitle": "css/paint.css exists",
+      "file": "/home/gift/Development/code/SE-prep/phase-0-css-graffiti-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "must be unchanged",
+      "fullTitle": "css/paint.css must be unchanged",
+      "file": "/home/gift/Development/code/SE-prep/phase-0-css-graffiti-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "exists",
+      "fullTitle": "index.html exists",
+      "file": "/home/gift/Development/code/SE-prep/phase-0-css-graffiti-lab/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "exists",
+      "fullTitle": "css/cleanup.css exists",
+      "file": "/home/gift/Development/code/SE-prep/phase-0-css-graffiti-lab/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has overrides added",
+      "fullTitle": "css/cleanup.css has overrides added",
+      "file": "/home/gift/Development/code/SE-prep/phase-0-css-graffiti-lab/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "exists",
+      "fullTitle": "css/paint.css exists",
+      "file": "/home/gift/Development/code/SE-prep/phase-0-css-graffiti-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "must be unchanged",
+      "fullTitle": "css/paint.css must be unchanged",
+      "file": "/home/gift/Development/code/SE-prep/phase-0-css-graffiti-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ]
+}
